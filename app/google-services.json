@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "763394271990",
+    "project_id": "myprimerapp-e1d6a",
+    "storage_bucket": "myprimerapp-e1d6a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763394271990:android:eb9be1fffbf719305e5ad7",
+        "android_client_info": {
+          "package_name": "com.example.appsplashlogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUCasgNI8sLtZaks4icdGhFcDfUTVPkXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
