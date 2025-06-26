@@ -13,7 +13,7 @@ import com.example.appsplashlogin.R
 
 class Splash : AppCompatActivity() {
 
-    private val splashDuration: Long = 1000 // 3 segundos
+    private val splashDuration: Long = 4000 // 3 segundos
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
